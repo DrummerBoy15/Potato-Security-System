@@ -1,2 +1,2 @@
 # Potato-Security-System
-This was coded using the Arduino IDE software. This code needed some libraries and functions from them to work. This was coded in C++. 
+The function of this code is for an arduino robot with ultrasonic sensors, buzzers, and a keypad to sound an alarm if someone enters the rooom it is located in. The alarm will continue buzzing untill the intruder/user types in the correct code. The user can also set their own passcode and leave their room to protect their possessions. This was written for a potato themed hackathon. This was coded using the Arduino IDE software. This code needed some libraries and functions from the Arudiono library to work. This was coded in C++.
